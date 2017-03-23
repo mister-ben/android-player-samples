@@ -7,7 +7,7 @@ buildscript {
 
   dependencies {
     classpath 'com.android.tools.build:gradle:2.2.3'
-    classpath 'de.undercouch:gradle-download-task:0.+'
+    classpath 'de.undercouch:gradle-download-task:3.1.2'
 
     classpath 'com.stanfy.spoon:spoon-gradle-plugin:1.2.2'
   }
@@ -30,7 +30,7 @@ def downloadIMA() {
   // remove libraries from /libs/.
   File dep = file(libraryDirectory + "lib/sdk.jar")
   if (!dep.exists()) {
-    apply plugin: 'download-task'
+    apply plugin: 'de.undercouch.download'
 
     println "Downloading the Google IMA SDK..."
 
