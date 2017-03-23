@@ -2,4 +2,5 @@ android {
   defaultConfig {
     applicationId = "com.brightcove.player.samples.imawidevine.basic"
   }
+    buildToolsVersion '25.0.0'
 }

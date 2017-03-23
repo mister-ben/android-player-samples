@@ -6,6 +6,7 @@ android {
         testApplicationId "com.brightcove.player.samples.cast.basic.test"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
     }
+    buildToolsVersion '25.0.0'
 }
 
 dependencies {

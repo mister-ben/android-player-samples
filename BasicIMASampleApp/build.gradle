@@ -4,4 +4,5 @@ android {
     testApplicationId "com.brightcove.player.samples.ima.basic.test"
     testInstrumentationRunner "android.test.InstrumentationTestRunner"
   }
+    buildToolsVersion '25.0.0'
 }

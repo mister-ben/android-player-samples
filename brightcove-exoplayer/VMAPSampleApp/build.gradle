@@ -1,3 +1,6 @@
 dependencies {
   compile "com.brightcove.player:android-vmap-plugin:${anpVersion}"
 }
+android {
+    buildToolsVersion '25.0.0'
+}
