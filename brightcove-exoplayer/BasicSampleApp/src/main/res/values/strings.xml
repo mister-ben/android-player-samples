@@ -5,12 +5,15 @@
     <string name="app_name">ExoPlayer Sample App</string>
 
     <!-- A sample Brightcove Edge Account ID -->
-    <string name="account">3636334163001</string>
+    <!--<string name="account">3636334163001</string>-->
+    <string name="account">5076297044001</string>
 
     <!-- A sample Brightcove Edge Policy Key -->
-    <string name="policy">BCpkADawqM1W-vUOMe6RSA3pA6Vw-VWUNn5rL0lzQabvrI63-VjS93gVUugDlmBpHIxP16X8TSe5LSKM415UHeMBmxl7pqcwVY_AZ4yKFwIpZPvXE34TpXEYYcmulxJQAOvHbv2dpfq-S_cm</string>
+    <!--<string name="policy">BCpkADawqM1W-vUOMe6RSA3pA6Vw-VWUNn5rL0lzQabvrI63-VjS93gVUugDlmBpHIxP16X8TSe5LSKM415UHeMBmxl7pqcwVY_AZ4yKFwIpZPvXE34TpXEYYcmulxJQAOvHbv2dpfq-S_cm</string>-->
+    <string name="policy">BCpkADawqM1gl7EPY7xni9oBu9RaioqsEVo4aeskz1sfp69ALQ9vum75ecG7sEw5DVgoz9fsf6swv_6X2u5US9YDKcjsnyKT90JVqKsQ6MgP-hd2CVN3QcdjCB43_XFcc2qbVau_Cu-mtpGm</string>
 
     <!-- A sample Brightcove Video ID -->
-    <string name="videoId">3637773814001</string>
+    <!--<string name="videoId">3637773814001</string>-->
+    <string name="videoId">5106091081001</string>
 
 </resources>
